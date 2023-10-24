@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">nativeBits_mm_mvvm_di</string>
+    <string name="no_news_as_of_now_please_check_in_some_time">no news as of now\nPlease check in some time</string>
+</resources>
